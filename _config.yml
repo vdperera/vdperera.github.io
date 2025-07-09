@@ -189,7 +189,7 @@ exclude:
 # Hiding some of the original template content
   - _pages/blog.md
   - _pages/teaching.md
-  - _pages/people.md
+  - _pages/profiles.md
   - _posts/
   - _projects/?_project.md
   - _pages/projects.md
