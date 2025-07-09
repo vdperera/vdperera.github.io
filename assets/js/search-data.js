@@ -50,8 +50,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-pardon-the-dust-i-m-currently-moving-the-website-from-bluehost-to-github-pages-and-taking-the-opportunity-to-give-it-a-little-makeover-over-the-next-few-days-some-pages-may-still-show-content-from-the-original-template-thanks-for-your-patience",
+            },},{id: "news-launching-a-first-version-of-the-website-tada-tada",
+          title: 'Launching a first version of the website :tada: :tada:',
+          description: "",
+          section: "News",},{id: "news-after-almost-four-great-years-at-amazon-i-have-joined-tenyx-looking-forward-to-build-the-next-generation-of-intelligent-voice-based-agents",
+          title: 'After almost four great years at Amazon I have joined Tenyx. Looking forward...',
+          description: "",
+          section: "News",},{id: "news-attending-contact-center-week-in-las-vegas-come-find-me-at-the-tenyx-booth-i-ll-be-there-all-week-ask-me-about-the-voice-agents-we-re-building-i-d-love-to-chat",
+          title: 'Attending Contact Center Week in Las Vegas? Come find me at the Tenyx...',
+          description: "",
+          section: "News",},{id: "news-pardon-the-dust-i-m-currently-moving-the-website-from-bluehost-to-github-pages-and-taking-the-opportunity-to-give-it-a-little-makeover-over-the-next-few-days-some-pages-may-still-show-content-from-the-original-template-thanks-for-your-patience",
           title: 'Pardon the dust! I’m currently moving the website from Bluehost to GitHub Pages...',
+          description: "",
+          section: "News",},{id: "news-it-s-official-tenyx-has-been-acquired-by-salesforce-i-m-incredibly-excited-about-this-milestone-and-what-it-means-for-our-future-i-m-looking-forward-to-building-voice-agents-with-the-power-and-scale-of-a-company-like-salesforce-behind-us",
+          title: 'It’s official — Tenyx has been acquired by Salesforce! I’m incredibly excited about...',
           description: "",
           section: "News",},{
         id: 'social-email',
