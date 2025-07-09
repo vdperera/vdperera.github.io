@@ -14,13 +14,14 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am a member of technical staff at [Tenyx](https://www.tenyx.com) where I work on everything pertaining to NLP (from NLU to NLG to synthetic data generation) with the ambitious goal of building the next generation of intelligent voice-based agents.
 
 Previously, I worked as applied scientist at Amazon Lab 126 in the [Alexa Conversations](https://developer.amazon.com/en-US/docs/alexa/conversations/about-alexa-conversations.html) group. During my tenure at Amazon I focused on controllable–both semantically and stylistically–natural language generation (NLG) at scale.
