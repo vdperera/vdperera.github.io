@@ -193,6 +193,8 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - _pages/projects.md
+  - _pages/repositories.md
+  - _includes/repository
   - _data/repositories.yml
 keep_files:
   - CNAME
