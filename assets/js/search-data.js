@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-pardon-the-dust-i-m-currently-moving-the-website-from-bluehost-to-github-pages-and-taking-the-opportunity-to-give-it-a-little-makeover-over-the-next-few-days-some-pages-may-still-show-content-from-the-original-template-thanks-for-your-patience",
+          title: 'Pardon the dust! I’m currently moving the website from Bluehost to GitHub Pages...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
