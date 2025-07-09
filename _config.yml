@@ -188,6 +188,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+# Hiding some of the original template content
+  - _pages/blog.md
+  - _pages/teaching.md
+  - _pages/people.md
+  - _posts/
+  - _projects/?_project.md
+  - _data/repositories.yml
 keep_files:
   - CNAME
   - .nojekyll
