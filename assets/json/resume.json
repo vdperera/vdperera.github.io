@@ -41,53 +41,54 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Carnegie Mellon University",
+      "url": "https://www.cmu.edu/",
+      "area": "Computer Science
+      "studyType": "Ph.D.",
+      "startDate": "2013-09-01",
+      "endDate": "2018-06-30",
+      "score": "",
+      "courses": []
     },
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Sapienza University",
+      "url": "https://www.uniroma1.it/",
+      "area": "Artificial Intelligence and Robotics",
+      "studyType": "Master of Science",
+      "startDate": "2009-09-01",
+      "endDate": "2013-06-30",
+      "score": "110/110 cum laude",
+      "courses": []
     },
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "institution": "Sapienza University",
+      "url": "https://www.uniroma1.it/",
+      "area": "Artificial Intelligence and Robotics",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2009-06-30",
+      "endDate": "2005-09-01",
+      "score": "101/110",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Machine Learning,
       "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "keywords": ["Deep Learning", "Pytorch"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Italian",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
     }
-  ]
-}
+  ]}
