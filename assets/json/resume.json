@@ -43,7 +43,7 @@
     {
       "institution": "Carnegie Mellon University",
       "url": "https://www.cmu.edu/",
-      "area": "Computer Science
+      "area": "Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2013-09-01",
       "endDate": "2018-06-30",
@@ -73,7 +73,7 @@
   ],
   "skills": [
     {
-      "name": "Machine Learning,
+      "name": "Machine Learning",
       "level": "Master",
       "keywords": ["Deep Learning", "Pytorch"]
     }
