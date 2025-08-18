@@ -14,7 +14,7 @@
     {
       "name": "Salesforce, Inc.",
       "position": "Lead Member of Technical Staff",
-      "url": "www.salesforce.com",
+      "url": "https://www.salesforce.com",
       "startDate": "2024-10-01",
       "endDate": "present",
       "summary": "Enable voice interaction for Agentforce. Integrate the technology developed at Tenyx into Salesforce existing stack to deliver a fully configurable voice assistant to all the existing Salesforce customers.",
@@ -23,7 +23,6 @@
     {
       "name": "Tenyx, Inc.",
       "position": "Founding Machine Learning Engineer",
-      "url": "www.tenyx.com",
       "startDate": "2022-07-01",
       "endDate": "2024-09-30",
       "summary": "Realized the initial idea of a voice agent natively powered by LLMs into a product serving hundreds of calls every day. De-risked initial technology. Built first POC and developed it into a full-fledged product. Deployed and maintained Tenyx voice agents to serve live traffic.",
@@ -32,7 +31,7 @@
     {
       "name": "Amazon - Lab126",
       "position": "Applied Scientist",
-      "url": "www.amazon.com",
+      "url": "https://www.amazon.com",
       "startDate": "2018-11-12",
       "endDate": "2022-06-24",
       "summary": "Developed a deep learning-based approach to dialog management empowering developers to create natural, human-like voice experiences on Alexa. Trained and evaluated generative model enabling the automated generation of Alexa prompts, lifting the need for human authored inputs.",
