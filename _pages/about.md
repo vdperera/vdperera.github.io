@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Lead Member of Technical Staff at Salesforce, working on integrating Tenyx’s voice agent technology into the Salesforce stack to power conversational intelligence for AgentForce. I joined Salesforce via the acquisition of Tenyx where I was one of the founding engineers. At Tenyx, I focused on the full spectrum of NLP challenges—from natural language understanding to generation and synthetic data creation—pursuing the ambitious goal of building advanced voice-based AI agents.
+I am currently a Lead Member of Technical Staff at [Salesforce](https://www.salesforce.com), working on integrating Tenyx’s voice agent technology into the Salesforce stack to power conversational intelligence for AgentForce. I joined Salesforce via the acquisition of Tenyx where I was one of the founding engineers. At Tenyx, I focused on the full spectrum of NLP challenges—from natural language understanding to generation and synthetic data creation—pursuing the ambitious goal of building advanced voice-based AI agents.
 
 Previously, I was part of the [Alexa Conversations](https://developer.amazon.com/en-US/docs/alexa/conversations/about-alexa-conversations.html) group at Amazon Lab126 as an applied scientist, where I focused on controllable—both semantically and stylistically—natural language generation (NLG) at scale.
 
