@@ -6,7 +6,7 @@
     "email": "vittorio dot perera at gmail dot com",
     "phone": "",
     "url": "https://vdperera.github.io/",
-    "summary": "I am an applied researcher and software engineer passionate about building with AI, LLMs, and NLP. I love turning complex problems into simple, elegant solutions, with a focus on clarity and maintainability in every line of code. I care deeply about thorough evaluation—whether for models or experiments—ensuring that results are both reliable and meaningful. My goal is to create systems that are not only powerful, but also clean, legible, and built to last.",
+    "summary": "I am an applied researcher and software engineer passionate about building in the speech/NLP space. I love finding simple and elegant solution to complex problems. In my day-to-day I strive to write readable, maintainabile code and design thorough evaluation—whether for models or experiments. My goal is to create systems that are not only powerful, but also built to last.",
     "location": {},
     "profiles": []
   },
@@ -81,7 +81,6 @@
       "level": "Master",
       "keywords": ["Python", "Pytorch"]
     }
-
   ],
   "languages": [
     {
@@ -96,4 +95,5 @@
       "language": "French",
       "fluency": "Intermediate"
     }
-  ]}
+  ]
+}
