@@ -6,7 +6,7 @@
     "email": "vittorio dot perera at gmail dot com",
     "phone": "",
     "url": "https://vdperera.github.io/",
-    "summary": "---",
+    "summary": "I am an applied researcher and software engineer passionate about building with AI, LLMs, and NLP. I love turning complex problems into simple, elegant solutions, with a focus on clarity and maintainability in every line of code. I care deeply about thorough evaluation—whether for models or experiments—ensuring that results are both reliable and meaningful. My goal is to create systems that are not only powerful, but also clean, legible, and built to last.",
     "location": {},
     "profiles": []
   },
@@ -75,8 +75,14 @@
     {
       "name": "Machine Learning",
       "level": "Master",
-      "keywords": ["Deep Learning", "Pytorch"]
+      "keywords": ["Deep Learning", "Neural Networks", "LLMs", "Transformers"]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": ["Python", "Pytorch"]
     }
+
   ],
   "languages": [
     {
