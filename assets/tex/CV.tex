@@ -1,0 +1,128 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, urlcolor=blue, linkcolor=blue]{hyperref}
+\usepackage[a4paper, margin=0.5in]{geometry}
+\usepackage{array}
+
+\newcolumntype{L}{p{3cm}}
+\newcolumntype{M}{p{8cm}}
+\newcolumntype{Z}{p{14cm}}
+
+\pagestyle{empty}
+
+% TODO 
+%   - No professional summary/profile line under the name
+%   - No skills/technologies section (languages, frameworks, tools)
+%   - Publications list hasn't been updated since 2020; consider trimming
+%     or reframing the header (e.g. "Selected Academic Publications")
+%   - Languages section could be a single line instead of a full block
+% LaTeX/style:
+%   - Section spacing is still hand-tuned via \vspace{} throughout; fragile
+%     if content is added/removed later
+
+\begin{document}
+
+{\Huge Vittorio Perera}
+
+\normalsize\begin{tabular}{l l}
+\\
+\textbf{Location:} & Rome, Italy\\
+\textbf{E-mail:} & \href{mailto:vittorio.perera@gmail.com}{vittorio.perera@gmail.com}\\
+\textbf{LinkedIn:} & \href{https://www.linkedin.com/in/vittorio-perera}{linkedin.com/in/vittorio-perera}\\
+\textbf{Website:} & \href{https://vdperera.github.io}{vdperera.github.io}\\
+\end{tabular}
+
+\vspace{1cm}
+
+\begin{tabular}{L | M r}
+		\textbf{WORK}& \textbf{Senior AI Research Engineer} &\\
+	\textbf{EXPERIENCES} & \emph{EMBL} & Rome, Italy\\
+	& \multicolumn{2}{Z}{Leading development of AI agents that combine multimodal reasoning, tool use, and knowledge retrieval to accelerate scientific discovery. Collaborate with research scientists and PhD students to design and evaluate models on real-world multi-omics data, improving robustness and performance, and publish results to the broader scientific community.}\\
+    & Date: July 2026 - Present&\\
+    \\
+    & \textbf{Lead Member of Technical Staff} &\\
+    & \emph{Salesforce, Inc. } & San Francisco, California, US\\
+	& \multicolumn{2}{Z}{Enable voice interaction for Agentforce. Integrate the technology developed at Tenyx into Salesforce existing stack to deliver a fully configurable voice assistant to all the existing Salesforce customers.}\\
+	& Date: October 2024 - July 2026&\\
+	\\
+    & \textbf{Founding Machine Learning Engineer} &\\
+    & \emph{Tenyx, Inc.} & Palo Alto, California, US\\
+	& \multicolumn{2}{Z}{Realized the initial idea of a voice agent natively powered by LLMs into a product serving hundreds of calls every day. De-risked initial technology. Built first POC and developed it into a full-fledged product. Deployed and maintained Tenyx voice agents to serve live traffic.}\\
+	& Date: July 2022 - October 2024 &\\
+	\\
+	& \textbf{Applied Scientist} &\\
+	& \emph{Amazon -- Lab 126} & Sunnyvale, California, US\\
+	& \multicolumn{2}{Z}{Developed a deep learning-based approach to dialog management empowering developers to create natural, human-like voice experiences on Alexa. Trained and evaluated generative model enabling the automated generation of Alexa prompts, lifting the need for human authored inputs.}\\
+	& Date: November 2018 - June 2022 &\\
+	\\
+	& \textbf{Applied Scientist Intern} &\\
+	& \emph{Amazon -- Lab 126} & Sunnyvale, California, US\\
+	& \multicolumn{2}{Z}{Improved the ability for the Alexa voice assistant to understand and fulfill users’ requests. Designed, trained and evaluated deep-learning models to parse users’ utterances into a structured representation, the Alexa Meaning Representation Language (AMRL).}\\
+	& Date: May-August 2017 &\\
+	\\
+	& \textbf{Research Summer Intern} &\\
+    & \emph{IBM T.J. Watson Research Center} & Yorktown Heights, New York, US\\
+	& \multicolumn{2}{Z}{Developed a multi-modal interface for a Pepper Robot to act as concierge for the Watson Research Center. Connected the robot with several IBM services (e.g., speech and face recognition), designed the robot dialog model, and developed a web interface to be displayed on the robot chest tablet.}\\
+	& Date: May-August 2016 &\\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{L | M r}
+\textbf{EDUCATION} & \textbf{Carnegie Mellon University} & Pittsburgh, Pennsylvania, US\\
+& \multicolumn{2}{l}{Ph.D in Computer Science (2018)}\\
+& \multicolumn{2}{Z}{Thesis Title: \emph{``Language-Based Bidirectional Human and Robot
+		Interaction Learning for Mobile Service Robots''}}\\
+& \multicolumn{2}{l}{Advisor: Manuela Veloso}\\
+& \\
+& \textbf{Sapienza University} & Rome, Italy\\
+& \multicolumn{2}{Z}{M.Sc. in Artificial Intelligence and Robotics (2013)}\\
+& \multicolumn{2}{Z}{Thesis Title: \emph{``Talking Robots: Voice User Interfaces For Human-Robot Interaction.''}}\\
+& \multicolumn{2}{Z}{Final Grade: 110/110 \emph{cum laude}}\\
+&\\
+& \textbf{Sapienza University} & Rome, Italy\\
+& \multicolumn{2}{Z}{B.E. in Computer Engineering (2009)}\\
+& \multicolumn{2}{Z}{Thesis Title: \emph{``Parsing and Analysis of Medical Prescriptions''}}\\
+& \multicolumn{2}{Z}{Final Grade: 101/110}\\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{L | M l}
+\textbf{SELECTED} & \multicolumn{2}{Z}{\textbf{Schema-Guided Natural Language Generation}}\\
+\textbf{PUBLICATIONS} & \multicolumn{2}{Z}{Authors: Yuheng Du, Shereen Oraby, Vittorio Perera, Minmin Shen, Anjali Narayan-Chen, Tagyoung Chung, Anu Venkatesh, Dilek Hakkani-Tur}\\
+& \multicolumn{2}{Z}{\emph{Proceedings of the 13th International Conference on Natural Language
+		Generation (INLG), 2020}}\\
+\\
+& \multicolumn{2}{Z}{\textbf{Multi-Task Learning For Parsing The Alexa Meaning Representation Language}}\\
+& \multicolumn{2}{Z}{Authors: Vittorio Perera, Tagyoung Chung, Thomas Kollar, Emma Strubell.}\\
+& \multicolumn{2}{Z}{\emph{Proceedings of the AAAI Conference on Artificial Intelligence, 2018}}\\
+\\
+& \multicolumn{2}{Z}{\textbf{Learning to Understand Questions on the Task History of a Service Robot}}\\
+& \multicolumn{2}{Z}{Authors: Vittorio Perera, Manuela Veloso}\\
+& \multicolumn{2}{Z}{\emph{IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), 2017}}\\
+\\
+& \multicolumn{2}{Z}{\textbf{Dynamic Generation and Refinement of Robot Verbalization}}\\
+& \multicolumn{2}{Z}{Authors: Vittorio Perera, Sai Prabhakar Selveraj, Stephanie Rosenthal, Manuela Veloso}\\
+& \multicolumn{2}{Z}{\emph{IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), 2016}}\\
+\\
+& \multicolumn{2}{Z}{\textbf{Learning Task-Relevant Environmental Knowledge from Human-Robot Dialog and the Web}}\\
+& \multicolumn{2}{Z}{Authors: Thomas Kollar, Robin Soetens, Vittorio Perera, Mehdi Samadi, Yichao Sun, Daniele Nardi, René van de Molengraft, Manuela Veloso}\\
+& \multicolumn{2}{Z}{\emph{Robotics, 2015}}\\
+\\
+& \multicolumn{2}{Z}{\textbf{Learning Environmental Knowledge from Task-Based Human-Robot Dialog }}\\
+& \multicolumn{2}{Z}{Authors: Thomas Kollar, Vittorio Perera, Daniele Nardi, Manuela Veloso}\\
+& \multicolumn{2}{Z}{\emph{International Conference on Robotics and Automation, 2013}}\\
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{L | M l}
+\textbf{LANGUAGES} & \emph{Italian} - Native &\\
+& \emph{English} - Fluent &\\
+& \emph{French} - Basic &\\
+\end{tabular}
+
+\end{document}

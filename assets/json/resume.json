@@ -12,11 +12,20 @@
   },
   "work": [
     {
+      "name": "EMBL",
+      "position": "Senior AI Research Engineer",
+      "url": "https://wwww.embl.org",
+      "startDate": "2026-07-13",
+      "endDate": "present",
+      "summary": "Leading development of AI agents that combine multimodal reasoning, tool use, and knowledge retrieval to accelerate scientific discovery. Collaborate with research scientists and PhD students to design and evaluate models on real-world multi-omics data, improving robustness and performance, and publish results to the broader scientific community.",
+      "highlights": []
+    },
+    {
       "name": "Salesforce, Inc.",
       "position": "Lead Member of Technical Staff",
       "url": "https://www.salesforce.com",
       "startDate": "2024-10-01",
-      "endDate": "present",
+      "endDate": "2026-07-10",
       "summary": "Enable voice interaction for Agentforce. Integrate the technology developed at Tenyx into Salesforce existing stack to deliver a fully configurable voice assistant to all the existing Salesforce customers.",
       "highlights": []
     },
@@ -64,8 +73,8 @@
       "url": "https://www.uniroma1.it/",
       "area": "Artificial Intelligence and Robotics",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2009-06-30",
-      "endDate": "2005-09-01",
+      "startDate": "2005-09-01",
+      "endDate": "2009-06-30",
       "score": "101/110",
       "courses": []
     }
@@ -93,7 +102,7 @@
     },
     {
       "language": "French",
-      "fluency": "Intermediate"
+      "fluency": "Basic"
     }
   ]
 }

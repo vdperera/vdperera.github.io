@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I've joined [EMBL Rome](https://www.embl.org/)! I'm excited to apply AI to a brand new domain for me, life sciences, and looking forward to the learning curve that comes with it. And it's a welcome return to Rome! 
+I've joined [EMBL Rome](https://www.embl.org/)! I'm excited to apply AI to a brand new domain for me, life sciences, and looking forward to the learning curve that comes with it. t sAnd it's a welcome return to Rome!
