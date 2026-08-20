@@ -65,6 +65,9 @@ ninja.data = [{
           section: "News",},{id: "news-pardon-the-dust-i-m-currently-moving-the-website-from-bluehost-to-github-pages-and-taking-the-opportunity-to-give-it-a-little-makeover-over-the-next-few-days-some-pages-may-still-show-content-from-the-original-template-thanks-for-your-patience",
           title: 'Pardon the dust! I’m currently moving the website from Bluehost to GitHub Pages...',
           description: "",
+          section: "News",},{id: "news-i-ve-joined-embl-rome-i-m-excited-to-apply-ai-to-a-brand-new-domain-for-me-life-sciences-and-looking-forward-to-the-learning-curve-that-comes-with-it-and-it-s-a-welcome-return-to-rome",
+          title: 'I’ve joined EMBL Rome! I’m excited to apply AI to a brand new...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
